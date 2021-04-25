@@ -1,0 +1,18 @@
+{
+  "title": "Dandadan",
+  "description": "Ken Takakura, a boy who is an occult fanatic who doesn't believe in ghosts, and Momo Ayase, a girl who doesn't believe in aliens, encounter overwhelming strangeness that transcends their mutual understanding...!
+An occult coming-of-age story!",
+  "artist": "Yukinobu Tatsu",
+  "author": "Yukinobu Tatsu",
+  "cover": "https://static.wikia.nocookie.net/dandadan/images/c/c9/Chapter_2.png/revision/latest/scale-to-width-down/310?cb=20210417000920",
+  "chapters": {
+    "1": {
+      "title": "This Is How Love Begins, Ain't It?",
+      "volume": "1",
+      "groups": {
+        "Dandadan": "/proxy/api/imgur/chapter/TAXYCmf/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
