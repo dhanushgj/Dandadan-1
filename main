@@ -12,6 +12,14 @@
         "Dandadan": "/proxy/api/imgur/chapter/TAXYCmf/"
       },
       "last_updated": "1616368746"
+    },
+    "2": {
+      "title": "That's An Alien, Ain't It?",
+      "volume": "1",
+      "groups": {
+        "Dandadan": "/proxy/api/imgur/chapter/16npqzD/"
+      },
+      "last_updated": "1616368746"
     }
   }
 }
